@@ -9,7 +9,7 @@ For educational and research purposes only. Do not use this tool to automate, ex
 This tool was used **only against bot opponents** for controlled testing and educational analysis, never in real multiplayer games.
 
 **Purpose**  
-Provide a lightweight, local tool for inspecting and visualizing resource state (including opponent counts in 1v1) for learning, debugging and protocol-analysis.
+Provide a lightweight, local tool for inspecting and visualizing resource state (including opponent counts that are usually hidden in game) for learning, debugging and protocol-analysis.
 
 **Demo**  
 Watch the demo: https://youtu.be/t9OhECEWiBU
