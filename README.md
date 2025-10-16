@@ -5,6 +5,9 @@ A short proof-of-concept that decodes Colonist.io WebSocket frames to reconstruc
 **Ethics & use**  
 For educational and research purposes only. Do not use this tool to automate, exploit, or gain unfair advantage in live games. Respect Colonist.io’s Terms of Service.
 
+**Usage context**  
+This tool was used **only against bot opponents** for controlled testing and educational analysis, never in real multiplayer games.
+
 **Purpose**  
 Provide a lightweight, local tool for inspecting and visualizing resource state (including opponent counts in 1v1) for learning, debugging and protocol-analysis.
 
