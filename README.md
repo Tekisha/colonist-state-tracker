@@ -11,6 +11,10 @@ Provide a lightweight, local tool for inspecting and visualizing resource state 
 **Demo**  
 Watch the demo: https://youtu.be/t9OhECEWiBU
 
+## Screenshot
+
+![Colonist HUD overlay showing bank and player resources](image.png)
+
 **Quick tech**  
 - Tampermonkey userscript - hooks browser WebSocket frames  
 - Node.js + Express - collects, decodes (MessagePack) and aggregates events  
